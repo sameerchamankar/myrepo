@@ -1,6 +1,8 @@
 {
   "mj041120201" : {
-    "text" : `<div class='card'><div class='cont'>This is just a test. again a test</div></div>`,
+    "text" : "<div class='card'>
+    <div class='cont'>This is just a test. again a test
+    </div></div>",
     "group" : "f",
     "type" : "nb"
   },
