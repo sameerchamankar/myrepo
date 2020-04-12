@@ -1,6 +1,11 @@
 {
   "mj041120201" : {
-    "text" : "This is my first joke",
+    "text" : "<strong>This is my first joke<strong>",
+    "group" : "f",
+    "type" : "nb"
+  }
+  "mj041120202" : {
+    "text" : "This is my second joke",
     "group" : "f",
     "type" : "nb"
   }
