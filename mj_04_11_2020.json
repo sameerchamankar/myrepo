@@ -1,13 +1,11 @@
 {
   "mj041120201" : {
-    "text" : "<div class='card'>
-    <div class='cont'>This is just a test. again a test
-    </div></div>",
+    "text" : "<div class='card'><div class='cont'>This is just a test.<br/> again a test</div></div>",
     "group" : "f",
     "type" : "nb"
   },
   "mj041120202" : {
-    "text" : "<div class='card'><div class='cont'>😳एकदम खतरनाक chat.मुलगा-  Hi....मुलगी- माझा नंबर कोणी दिला..?मुलगा- मुतारी मधुन मिळाला..😂Block😂</div></div>",
+    "text" : "<div class='card'><div class='cont'>😳एकदम खतरनाक chat.<br/>मुलगा-  Hi....मुलगी- माझा नंबर कोणी दिला..?<br/>मुलगा- मुतारी मधुन मिळाला..<br/>😂Block😂</div></div>",
     "group" : "f",
     "type" : "nb"
   }
