@@ -1,12 +1,22 @@
 {
-  "mj20200331n1": {
-    "text": "j1",
-    "group": "f",
-    "type": "nb"
-  },
-  "mj20200331n2": {
-    "text": "j2",
-    "group": "f",
-    "type": "nb"
-  }
+      "0101": {
+        "text": "3j1",
+        "group": "f",
+        "type": "nb"
+      },
+      "0102": {
+        "text": "3j2",
+        "group": "f",
+        "type": "nb"
+      },
+      "0103": {
+          "text": "3j3",
+          "group": "f",
+          "type": "nb"
+      },
+      "0104": {
+          "text": "3j4",
+          "group": "f",
+          "type": "nb"
+      }
 }
